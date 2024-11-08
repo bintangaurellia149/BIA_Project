@@ -18,3 +18,6 @@ avg_glucose
 avg_bloodpressure
 avg_DPF
 avg_age
+
+# Add new coding 
+# View the correlation between Age, Glucose, and BloodPressure
