@@ -1,3 +1,6 @@
+# Add new coding
+# Create new comparency
+
 #check you working directory 
 getwd()
 
