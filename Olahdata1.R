@@ -15,3 +15,6 @@ nrow(data)
 
 #Count the number of coloumns
 ncol(data)
+
+# Add new coding 
+# Create summary of the data
